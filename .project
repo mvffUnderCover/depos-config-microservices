@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+<<<<<<< HEAD
+	<name>depos-configurations</name>
+=======
+	<name>serveur-configurations</name>
+>>>>>>> 2319d0bcfeab4ef629e525367a2a9186447a3445
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
